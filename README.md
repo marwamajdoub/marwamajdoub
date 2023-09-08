@@ -1,34 +1,24 @@
-<h1 align="center">Hi 👋, I'm Marwa</h1>
-<h3 align="center">I am a software engineering student, I believe that being self-taught is all about working hard yourself on the path of your passion with endless patience and curiosity.</h3>
+### Hi there 👋, I am Marwa!
+#### I am a software engineering student 
+I believe that being self-taught is all about working hard yourself on the path of your passion with endless patience and curiosity.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marwamjdoub&label=Profile%20views&color=0e75b6&style=flat" alt="marwamjdoub" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marwamjdoub" alt="marwamjdoub" /></a> </p>
+- 🌱 I’m currently learning html&css&js 
+- 💬 Ask me about anything,I am happy to help! 
+- 📫 How to reach me: majdoub.maroua2001@gmail.com 
+- 😄 Pronouns: just call me MIRO! 
 
-<p align="left"> <a href="https://twitter.com/majdoub maroua" target="blank"><img src="https://img.shields.io/twitter/follow/majdoub maroua?logo=twitter&style=for-the-badge" alt="majdoub maroua" /></a> </p>
 
-- 🌱 I’m currently learning **html&css&js**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/majdoub marwa )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/majdoub maroua/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/majdoub marwa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/majdoub maroua /)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/majdoub maroua)  
 
-- 💬 Ask me about **anything,I am happy to help**
+[![trophy](https://github-profile-trophy.vercel.app/?username=majdoub marwa )](https://github.com/ryo-ma/github-profile-trophy)
 
-- 📫 How to reach me **majdoub.maroua2001@gmail.com**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majdoub marwa )](https://github.com/anuraghazra/github-readme-stats)
 
-- 😄 Pronouns **just call me MIRO**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=majdoub marwa &show_icons=true&count_private=true)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/majdoub maroua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="majdoub maroua" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/majdoub maroua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="majdoub maroua" height="30" width="40" /></a>
-<a href="https://fb.com/majdoub marwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="majdoub marwa" height="30" width="40" /></a>
-<a href="https://instagram.com/majdoub maroua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="majdoub maroua" height="30" width="40" /></a>
-</p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=majdoub marwa )  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=majdoub marwa )  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marwamjdoub&show_icons=true&locale=en&layout=compact" alt="marwamjdoub" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marwamjdoub&show_icons=true&locale=en" alt="marwamjdoub" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marwamjdoub&" alt="marwamjdoub" /></p>
-
+![Profile views](https://gpvc.arturio.dev/majdoub marwa )  
