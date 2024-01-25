@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/majdoub maroua" target="blank"><img src="https://img.shields.io/twitter/follow/majdoub maroua?logo=twitter&style=for-the-badge" alt="majdoub maroua" /></a> </p>
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning **java & android**
 
 - 💬 Ask me about **anything,I am happy to help**
 
@@ -31,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marwamajdoub&show_icons=true&locale=en" alt="marwamajdoub" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marwamajdoub&" alt="marwamajdoub" /></p>
-
