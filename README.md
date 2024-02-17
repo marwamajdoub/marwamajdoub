@@ -8,9 +8,7 @@
 <p align="left"> <a href="https://twitter.com/majdoub maroua" target="blank"><img src="https://img.shields.io/twitter/follow/majdoub maroua?logo=twitter&style=for-the-badge" alt="majdoub maroua" /></a> </p>
 
 - 🌱 I’m currently learning **java**
-
-- 😄fun facts about me **I turn coffee into <code>**
-
+  
 - 💬 Ask me about **anything,I am happy to help**
 
 - 📫 How to reach me **majdoub.maroua2001@gmail.com**
