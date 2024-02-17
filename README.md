@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **java**
 
+- 😄fun facts about me **I turn coffee into <code>**
+
 - 💬 Ask me about **anything,I am happy to help**
 
 - 📫 How to reach me **majdoub.maroua2001@gmail.com**
-
-- 😄fun facts about me [I turn coffee into <code>](I turn coffee into <code>)
 
 - 😄 Pronouns **just call me MIRO**
 
