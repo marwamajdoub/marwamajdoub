@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marwa</h1>
+<h1 align="center">Hi 👋, I'm Maroua</h1>
 <h3 align="center">I am a software engineering student, I believe that being self-taught is all about working hard yourself on the path of your passion with endless patience and curiosity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwamajdoub&label=Profile%20views&color=0e75b6&style=flat" alt="marwamajdoub" /> </p>
@@ -7,11 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/majdoub maroua" target="blank"><img src="https://img.shields.io/twitter/follow/majdoub maroua?logo=twitter&style=for-the-badge" alt="majdoub maroua" /></a> </p>
 
-- 🌱 I’m currently learning **java & android**
+- 🌱 I’m currently learning **java**
 
 - 💬 Ask me about **anything,I am happy to help**
 
 - 📫 How to reach me **majdoub.maroua2001@gmail.com**
+
+- 😄fun facts about me [I turn coffee into <code>](I turn coffee into <code>)
 
 - 😄 Pronouns **just call me MIRO**
 
