@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/majdoubmaroua" target="blank"><img src="https://img.shields.io/twitter/follow/majdoubmaroua?logo=twitter&style=for-the-badge" alt="majdoubmaroua" /></a> </p>
 
-- 🌱 I’m currently learning **VueJS**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **anything,I am happy to help!**
 
