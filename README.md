@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **anything,I am happy to help!**
 
-- 📫 How to reach me: **You can shoot me an email at majdoub.maroua2001@gmail.com**
+- 📫 How to reach me: **You can shoot me an email at maroua.majdoub@enis.tn**
 
 - 😄 Pronouns **just call me MIRO**
 
