@@ -8,6 +8,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=marwamajdoub&theme=radical&no-frame=true&column=7" alt="marwamajdoub" />
   </a>
 </p>
+
 - 🌱 I’m currently learning **Agentic AI**
 
 - 💬 Ask me about **anything,I am happy to help!**
