@@ -3,8 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwamajdoub&label=Profile%20views&color=0e75b6&style=flat" alt="marwamajdoub" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marwamajdoub" alt="marwamajdoub" /></a> </p>
-
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=marwamajdoub&theme=radical&no-frame=true&column=7" alt="marwamajdoub" />
+  </a>
+</p>
 - 🌱 I’m currently learning **Agentic AI**
 
 - 💬 Ask me about **anything,I am happy to help!**
